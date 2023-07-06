@@ -1,0 +1,12 @@
+#social_media_section{
+    padding: 70px 0;
+    background-color: var(--primary-color)
+}
+.social_media_section h2{
+    font-size: 30px;
+    text-align: center;
+}
+.social_media_container img{
+    width: 70px;
+    flex-wrap: wrap;
+}
